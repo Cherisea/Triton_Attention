@@ -12,4 +12,8 @@ __pycache__/
 Pipfile
 Pipfile.lock
 
+# Experimental files created by manim
+animation/
+media/
+
 

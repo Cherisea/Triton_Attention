@@ -8,4 +8,8 @@ __pycache__/
 # Mac system files
 .DS_Store
 
+# Pipfile
+Pipfile
+Pipfile.lock
+
 
